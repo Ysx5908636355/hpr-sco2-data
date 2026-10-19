@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite this dataset and the accompanying paper."
+title: "Transient simulation dataset for a heat pipe reactor coupled with a supercritical CO2 Brayton cycle"
+type: dataset
+authors:
+  - family-names: Yin
+    given-names: Shaoxuan
+    email: M21182702@nue.edu.cn
+    affiliation: "Naval University of Engineering, Wuhan, China"
+  - family-names: Yu
+    given-names: Ren
+    email: yu-article@nue.edu.cn
+    affiliation: "Naval University of Engineering, Wuhan, China"
+  - family-names: Ma
+    given-names: Jie
+    email: 1508051046@nue.edu.cn
+    affiliation: "Naval University of Engineering, Wuhan, China"
+  - family-names: Mao
+    given-names: Wei
+    email: 0908051007@nue.edu.cn
+    affiliation: "Naval University of Engineering, Wuhan, China"
+  - family-names: Sheng
+    given-names: Dongjie
+    email: shengdongjie18@alumni.nudt.edu.cn
+    affiliation: "Naval University of Engineering, Wuhan, China"
+version: "1.0.0"
+date-released: "2026-10-19"
+license:
+  - CC-BY-4.0
+keywords:
+  - heat pipe reactor
+  - supercritical CO2 Brayton cycle
+  - transient response
+  - Modelica
+  - open-loop simulation
+# repository-code: https://github.com/<your-account>/hpr-sco2-data
+# Uncomment the line above and fill in the account once the repository is created.
